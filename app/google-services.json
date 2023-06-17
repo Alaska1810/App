@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203418107738",
+    "project_id": "vitaalarms-ea478",
+    "storage_bucket": "vitaalarms-ea478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203418107738:android:54f71fbec57a6b0afcfd63",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203418107738-eug40094l7ihioct7dch01ppah6dho38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEXmLw8Slvqfi73x2e7wGvQCWF0rs2Sec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203418107738-eug40094l7ihioct7dch01ppah6dho38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

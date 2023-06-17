@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registrar">RegistrarActivity</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+</resources>
